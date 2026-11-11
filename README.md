@@ -3,3 +3,5 @@ Hello! My name is Jaswanth, and I am a second-year B.Tech Computer Science and E
 - Learning Python
 ## Interests
 - Artificial Intelligence
+## Goals
+- Contribute to open source
