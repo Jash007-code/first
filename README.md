@@ -5,3 +5,6 @@ Hello! My name is Jaswanth, and I am a second-year B.Tech Computer Science and E
 - Artificial Intelligence
 ## Goals
 - Contribute to open source
+
+## Projects
+- Credit Card Fraud Detection: A planned machine learning project to identify potentially fraudulent transactions.
