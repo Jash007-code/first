@@ -11,6 +11,6 @@ Hello! My name is Jaswanth, and I am a second-year B.Tech Computer Science and E
 
 ## Collaboration Log
 
-- Partner: [Partner Name] (@partner-github-username)
-- Work completed: Added a greet() function to the Hello World program using Live Share.
-- Learning: GitLens helps identify who last modified a line of code and displays the related commit history. Live Share allows multiple developers to edit code collaboratively in real time.
+- Partner: None available; tested Live Share using a second device as a guest.
+- Work completed: Added a greet() function to the Hello World program and tested a Live Share session.
+- Learning: GitLens shows who last changed each line and the related commit message.
